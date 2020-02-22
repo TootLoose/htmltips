@@ -1,4 +1,5 @@
-# htmltips Official Repo
+# HTML-Tips Official Website Repo
+# By TootLoose (GitHub)
 HTML-Tips Website
 THIS WEBSITE IS STILL UNDER CONSTRUCTION!
 
